@@ -1,2 +1,3 @@
-# SUI-Umela-inteligence-a-strojove-uceni
-5. semestr
+# [SUI]
+## 2019/20 - 5. semestr - magisterský předmět zapsán v bakalářském studiu
+### Projekt - 11.5625/20 bodů
